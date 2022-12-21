@@ -4,8 +4,8 @@ using namespace std;
 
 class User
 {
-public:
 	int age;
+public:
 	void out();
 };
 
