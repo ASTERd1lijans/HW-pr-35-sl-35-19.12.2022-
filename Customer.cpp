@@ -2,5 +2,5 @@
 
 void Customer::out()
 {
-	cout << "The ammount of products: " << this->ammountOfProducts;
+	cout << "The ammount of products: " << this->ammountOfProducts << endl;
 }
